@@ -24,9 +24,9 @@ Start your emulator, then run the project from main.dart
 
 **Note:** Please make sure you have the Flutter plugin in Android Studio, and that the project is running as a Flutter project, not a dart file. You should know that your project is ready to debug when you see this icon in your run configuration dropdown menu
 
-![](https://prnt.sc/H7dWP3QAI35u)
+![](flutterconf.jpg)
 
-If you see this icon  ![](https://prnt.sc/dqRPPqOGqEQV), then you have to edit your running configuration or install Flutter plugin.
+If you see this icon  ![](dartconf.jpg), then you have to edit your running configuration or install Flutter plugin.
 
 **Note:** This project runs a *no sound null safety* Flutter package `intl`, therefore it might fail to debug. If that happens, try to run it using 
 
@@ -56,6 +56,6 @@ This project is supposed to showcase the following concepts in Flutter:
 
 ## Screenshots from the app
 
-![](https://prnt.sc/6QdtMXZO6xjf)
-![](https://prnt.sc/-aDxL5zmG-VI)
-![](https://prnt.sc/bjAzRA8uS_mP)
+![](ss1.jpg)
+![](ss2.jpg)
+![](ss3.jpg)
