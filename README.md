@@ -1,8 +1,6 @@
 # PersonalExpensesFlutterApp
 
- An example Flutter application to showcase several styling concepts in Flutter
-
-**DISCLAMER** I claim none of these works as mine. This project was made following the Udemy course presented by Mr [Maximilian Schwarzmüller](https://www.udemy.com/user/academind/) , albeit with a few updates to better suit the current version of Flutter. The sole intent of releasing this repository is for future Flutter learners to have a documented reference that explains some concepts practically.
+ An example mobile application to showcase several styling, adaptive and responsive concepts in Flutter
 
 ## How to run?
 
@@ -53,6 +51,15 @@ This project is supposed to showcase the following concepts in Flutter:
 * Creating a ***Modal Bottom Sheet***
 
 * Creating and utilizing Flutter's ***DatePicker***
+
+*	Using ***LayoutBuilder*** to know size constraints
+
+*	Using textScaleFactor
+
+*	Coding with different screen orientations
+
+*	Coding for different platforms (Android, iOS)
+
 
 ## Screenshots from the app
 
